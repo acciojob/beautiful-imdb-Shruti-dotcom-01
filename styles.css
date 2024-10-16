@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+div{
+	display: grid;
+	justify-content: center;
+	align-items: center;
+}
+.moviePic{
+	height: 50vh;
+	width: 30vh;
+	opacity: 1;
+}
+
+.movieDetail{
+	top:0 ;
+	position: relative;
+	width: 30vh;
+	text-align: center;
+	font-size: 17px;
+}
